@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+
+# PDF files
+*.pdf
+
+# Any file or folder with 'test' in its name
+*test*
+
+
